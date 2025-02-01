@@ -1,4 +1,4 @@
-# React Native Releases
+ # React Native Releases
 
 This repository is dedicated to coordinating React Native releases. It contains documentation and information on _how_ React Native is released, which versions are supported, and how to request a new Pick Request.
 
